@@ -1,0 +1,21 @@
+SECCION TAREAS:
+1 plasholder en busqueda.
+2 select search por proyecto en tareas.
+3 persona a quien le encargaste la tarea en tabla de tareas.
+4 TAREA--- FASES SUBTAREA-- TAREA
+-------------------------------------------
+SELECCION DE PROYECTOS:
+Selecccion servidor de proyecto en formulario.
+(PENDIENTE)
+La informacion técnica:
+Del servido al proyecto de campo
+proyecto informacion tecnica, direccion IP,
+compra dominio, landyn. 
+----------------------------------------------
+SELECCION DE CLIENTES:
+
+1 REDES SOCIALES: PAGINA FACEBOOK (URL)
+---------------------------------------
+
+
+

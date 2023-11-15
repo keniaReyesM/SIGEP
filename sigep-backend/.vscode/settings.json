@@ -1,0 +1,12 @@
+{
+	"search.exclude": {
+		"**/target": true,
+		"**/test": true,
+		"**/assets": true,
+		".slcache": true
+	},
+	"editor.renderWhitespace": "none",
+	"workbench.editor.enablePreview": false,
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+	"window.title": "SIGEP - BACKEND"
+}
